@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Nem Fiz Funcionar //
 /*
   1 - Um número a é dito permutação de um número b se os dígitos de a
   formam uma permutação dos dígitos de b. Exemplo: 5412434 é uma 
@@ -21,13 +22,9 @@ int contadigitos(int d, int n){
 }
 
 
-
-
 int main(void) {
   int 
 
-  
-  
   
   
   return 0;
