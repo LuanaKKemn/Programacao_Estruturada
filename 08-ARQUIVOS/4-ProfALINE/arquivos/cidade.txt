@@ -1,0 +1,5 @@
+maria mulher 1.8 68 56 verdes doutorado
+pedra mulher 1.5 101 55 verdes doutorado
+pedro homem 1.8 50 49 verdes doutorado
+marcos homem 1.85 80 56 verdes doutorado
+marieta mulher 1.65 75 48 verdes doutorado
