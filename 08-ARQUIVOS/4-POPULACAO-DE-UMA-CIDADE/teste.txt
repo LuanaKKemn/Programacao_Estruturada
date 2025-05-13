@@ -1,0 +1,4 @@
+1 m 1 3 castanho medio
+2 f 2.2 2 azul medio
+3 m 1 3 verde fundamental
+4 f 1.3 54 verde universitario
